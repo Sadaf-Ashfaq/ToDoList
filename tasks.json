@@ -1,0 +1,12 @@
+[
+    {
+        "text": "OS Project",
+        "due_date": "2025-07-01",
+        "completed": true
+    },
+    {
+        "text": "Assignment 2",
+        "due_date": "2025-07-02",
+        "completed": false
+    }
+]
