@@ -16,26 +16,6 @@ A modern desktop To-Do List application built using **Python**, **Tkinter**, and
 
 ---
 
-## 📂 Project Structure
-
-MyToDo/
-│
-├── main.py # Main GUI file
-├── task_manager.py # Handles task logic (add, delete, toggle)
-├── task_data.py # Task data loading/saving
-├── tasklist.txt # Stores task data
-├── Image/ # Folder containing UI images
-│ ├── look.jpeg
-│ ├── add.png
-│ ├── delete.png
-│ ├── mark.png
-│ ├── all.png
-│ ├── completed.png
-│ └── incompleted.png
-
-
----
-
 ## ⚙️ How to Run
 
 ### 1. Install Python libraries
