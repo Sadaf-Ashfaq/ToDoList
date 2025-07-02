@@ -2,8 +2,6 @@
 
 A modern desktop To-Do List application built using **Python**, **Tkinter**, and **TkCalendar**, with features to add due dates, mark tasks complete/incomplete, filter tasks, and save data — all in a beautifully themed GUI.
 
-![ToDo App Banner](Image/look.jpeg)
-
 ---
 
 ## 🚀 Features
